@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  <img src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-1.gif" height="150" />
+  <img src="https://www.primecursos.com.br/blog/wp-content/uploads/2020/05/tenor-1.gif" height="380" />
 </p>
